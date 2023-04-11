@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 952f15b640e483695378f958abfde8f3f837f8ff
 ## Este site foi feito ultilizando:
 <ul>
 <li>FIGMA - PROTOTIPAÇÃ/ DESIGN</li>
